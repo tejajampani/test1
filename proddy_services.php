@@ -1,6 +1,10 @@
 <?php
 include("dc.php");
+<<<<<<< HEAD
 //test by teja
+=======
+// Test Venkat
+>>>>>>> 00d46d53f176015f2c4f1e8d7e0c169ed8686d74
 class Api_function
 {
 	public function __construct()
