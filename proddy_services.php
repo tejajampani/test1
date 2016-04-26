@@ -1,6 +1,6 @@
 <?php
 include("dc.php");
-// Test By Venkat
+
 class Api_function
 {
 	public function __construct()
