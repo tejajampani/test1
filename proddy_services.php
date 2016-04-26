@@ -1,9 +1,14 @@
 <?php
+//test for erroer by teja
 include("dc.php");
 // Testing 
 //This is response by teja and venkat
+<<<<<<< HEAD
 
 // Test By Me finding at a time commit 
+=======
+//this is cross checking by teja
+>>>>>>> 0e8f0e1f8ced0c3bff4656bd10a4554e78d40667
 
 class Api_function
 {
