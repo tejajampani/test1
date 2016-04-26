@@ -1,4 +1,5 @@
 <?php
+//test2 for error by teja
 //test for erroer by teja
 include("dc.php");
 // Testing 
@@ -9,7 +10,7 @@ include("dc.php");
 =======
 //this is cross checking by teja
 >>>>>>> 0e8f0e1f8ced0c3bff4656bd10a4554e78d40667
-
+//hi venky
 class Api_function
 {
 	public function __construct()
