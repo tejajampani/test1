@@ -1,5 +1,6 @@
 <?php
 include("dc.php");
+//test by teja
 class Api_function
 {
 	public function __construct()
